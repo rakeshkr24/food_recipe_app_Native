@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # food_recipe_app_Native
 Food recipe app with React Native
-=======
 # Food-Recipe-App-React-Native
 
 ![Image](https://cdn.dribbble.com/userupload/9661662/file/original-ce9fa19b4cedbd0c7eae7fd797f86462.png?compress=1&resize=1600x1200)
@@ -50,4 +48,3 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 </p>
 
 <a href="https://www.buymeacoffee.com/syednoman">☕ Buy me a coffee</a>
->>>>>>> 0102f61 (Initial commit)
